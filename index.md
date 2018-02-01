@@ -1,4 +1,5 @@
-
+<!DOCTYPE html> 
+<html> 
 <head> 
       <title>Arjun Luthra Blog</title>  
       <meta name="viewport" content="width=device-width, initial-scale=1">
